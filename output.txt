@@ -1,0 +1,7 @@
+Id:120   Name:Jubran City:Jerusalem   ClassId:12   Date Of Enrollment:19-1-2020   
+Id:115   Name:Hanna City:Rammallah   ClassId:10   Date Of Enrollment:25-10-2016   
+Id:114   Name:Rami City:Jifna   ClassId:8   Date Of Enrollment:1-9-2022   
+Id:118   Name:Rojeh City:Jenin   ClassId:8   Date Of Enrollment:1-9-2022   
+Id:116   Name:khalid City:Jifna   ClassId:8   Date Of Enrollment:1-9-2022   
+Id:121   Name:Ahmad City:Jifna   ClassId:11   Date Of Enrollment:19-2-2022   
+Id:130   Name:steve City:Jifna   ClassId:6   Date Of Enrollment:2-1   
