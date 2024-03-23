@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1688246951 source:c:\users\hp\onedrive\desktop\codeblocks\data_project3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<ctype.h>
+
